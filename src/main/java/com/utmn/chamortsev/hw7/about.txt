@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-21\bin\jstack.exe" -l 38656 >deadlockreport.txt
