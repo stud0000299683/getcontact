@@ -1,2 +1,11 @@
-package com.utmn.chamortsev.hw4;public class DemoApplication {
+package com.utmn.chamortsev.hw4;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class, args);
+    }
 }
